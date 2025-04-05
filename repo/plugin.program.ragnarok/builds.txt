@@ -1,0 +1,18 @@
+id="plugin.program.ragnarok"
+version="2.1.1"
+zip="url.to.wizard"
+
+name="TMDBase"
+version="1.01"
+url="https://www.dropbox.com/scl/fi/cj2o3vq7fxqyq1vbgq503/TMDBase1.01_guisettings.zip?rlkey=nycpyb6dqz8zqgtawvkqdasjs&st=jfk2o7bn&dl=1"
+minor="http://"
+gui="https://www.dropbox.com/scl/fi/cj2o3vq7fxqyq1vbgq503/TMDBase1.01_guisettings.zip?rlkey=nycpyb6dqz8zqgtawvkqdasjs&st=sn9t8upa&dl=1"
+kodi="21.1"
+theme="http://"
+icon="https://i.imgur.com/29Fm9uM.png"
+fanart="https://i.imgur.com/BUCj7F5.png"
+preview="http://"
+adult="no"
+info="http//"
+description="A Kodi build based around the Arctic Fuse 2 skin using TMDb Helper and other addons as widgets & full Trakt integration"
+
