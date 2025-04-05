@@ -1,0 +1,3 @@
+[submodule "plugin.program.ragnarok"]
+	path = plugin.program.ragnarok
+	url = https://github.com/darkbeast13/plugin.program.ragnarok
